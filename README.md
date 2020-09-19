@@ -1,6 +1,6 @@
 # @uniswap/retroactive-query
 
-[![Run Queries](https://github.com/Uniswap/retroactive-query/workflows/Run%20Queries/badge.svg)](https://github.com/Uniswap/retroactive-query/actions?query=workflow%3A%22Run+Queries%22)
+[![Run Queries](https://github.com/dethertech/retroactive-query/workflows/Run%20Queries/badge.svg)](https://github.com/dethertech/retroactive-query/actions?query=workflow%3A%22Run+Queries%22)
 
 This repository contains queries that produce the tables of retroactive UNI token distributions.
 
