@@ -51,6 +51,7 @@ You can reproduce the results of this query by forking this repository and addin
 
 ### Determinism notes
 
+
 Note that, for floating point input types, the return result of aggregations is non-deterministic,
 which means you will not get the exact same result each time you aggregate floating point columns.
 
