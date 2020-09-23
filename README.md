@@ -7,7 +7,7 @@ This repository contains queries that produce the tables of retroactive UNI toke
 The queries run in [Google BigQuery](https://cloud.google.com/bigquery) against the 
 [`bigquery-public-data.crypto_ethereum`](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=crypto_ethereum&page=dataset) 
 dataset.
-
+ 
 Data for this dataset is extracted to Google BigQuery using
 [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl).
 
