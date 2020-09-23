@@ -12,7 +12,7 @@ Data for this dataset is extracted to Google BigQuery using
 [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl).
 
 ## Specifications
-
+ 
 All queries have a cutoff timestamp of `2020-09-01 00:00:00+00 GMT`. Total distribution is aimed at `150_000_000` UNI.
 
 ### All users
